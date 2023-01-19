@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about SQL.
+- 🌱 I’m currently learning about software testing.
 - 📫 How to reach me: laichinyee1101@gmail.com
 - 😄 Pronouns: she/her
 
