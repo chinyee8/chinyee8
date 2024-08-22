@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about software testing.
 - 📫 How to reach me: laichinyee1101@gmail.com
 - 😄 Pronouns: she/her
+- Portfolio: [https://estherlai.netlify.app/](https://estherlai.netlify.app/)
 
 
 <!--
